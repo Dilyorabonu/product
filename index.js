@@ -6,7 +6,7 @@ if (8 <= a){
     console.log(a + '= bu son 7dan katta')
 }
 if (a == 1){
-    console.log('2 = sewanba')
+    console.log('1=duwanba')
 }
 if (a == 2){
     console.log('2 = sewanba')
